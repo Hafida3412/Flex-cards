@@ -54,7 +54,7 @@
    /* border-radius: 10px 10px 0 0;*/
     object-fit: cover;
     filter: grayscale(1);
-    transition: 0,5s;
+    transition: 0.5s;
 }
 
 .card-text{
